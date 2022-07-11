@@ -9,8 +9,6 @@ This project was created to show the use of implementing an API using JavaScript
 
 Just go to the following link https://netflix-clone-c69ee.web.app and click the photo for any available movie. It will play a trailer of that movie.
 
-## Collaborators
-
 ## License
 
 This code is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
