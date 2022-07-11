@@ -5,10 +5,6 @@ https://netflix-clone-c69ee.web.app
 
 This project was created to show the use of implementing an API using JavaScript and the react library. The themoviedb.org API was used to pull in the details from the movie database. Axios.js library was used to fetch the request from the database.
 
-## Table of Contents
-
-## How to install/run project
-
 ## Project use instructions
 
 Just go to the following link https://netflix-clone-c69ee.web.app and click the photo for any available movie. It will play a trailer of that movie.
